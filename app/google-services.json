@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "605442789957",
+    "firebase_url": "https://metroscan-default-rtdb.firebaseio.com",
+    "project_id": "metroscan",
+    "storage_bucket": "metroscan.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605442789957:android:2bab366f9bb8f4f211892c",
+        "android_client_info": {
+          "package_name": "com.example.metroscan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTzQD_ZfQjTYywMxgzch5o4c_eZe6IRuU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
